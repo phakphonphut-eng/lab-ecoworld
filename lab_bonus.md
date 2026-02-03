@@ -29,5 +29,5 @@
 ---
 
 ## ✅ Checklist ส่งงาน Bonus
-- [ ] แสดงการใช้ `git reset --hard`
-- [ ] แสดงการใช้ `git reflog` และ `git cherry-pick`
+- [✅] แสดงการใช้ `git reset --hard`
+- [✅] แสดงการใช้ `git reflog` และ `git cherry-pick`
