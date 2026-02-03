@@ -24,7 +24,7 @@
 2.  **Student A:** ไปที่ Settings -> Collaborators -> **Add people** -> ใส่ Username ของ Student B
 3.  **Student B:** เช็ค Email หรือ Notification เพื่อกด **Accept Invite**
 4.  **ทั้งคู่:** Clone Repository ลงเครื่องตัวเอง
-    * `git clone [URL]`
+    * `git clone https://github.com/phakphonphut-eng/lab-ecoworld.git`
 
 ### Phase 2: Create Base Files (Student A)
 1.  **Student A:** นำไฟล์ `index.html` (ที่อาจารย์ให้) ใส่ใน Folder
